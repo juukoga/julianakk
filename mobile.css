@@ -1,0 +1,38 @@
+
+.netflix{
+	width: 100%;
+	margin-top: 25%;
+}
+
+.container-img {
+position: relative;
+  text-align: center;
+}
+
+.texto{
+	position: absolute;
+  right: 80%;
+  top: 80%;
+	color: white;
+	padding-left: 
+}
+
+
+.botao{
+position: absolute;
+	left: 80%;
+	top: 80%;
+}
+
+#botao1{
+border-radius: 10%;
+padding-top: 5%;
+padding-left: 5%;
+padding-right: 2%;
+}
+
+
+h5{
+	padding-left: 5%;
+}
+
